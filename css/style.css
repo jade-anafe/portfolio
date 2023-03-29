@@ -1,1 +1,35 @@
-
+body{
+    background-color: azure;
+}
+.img-lg {
+    width: 500px;
+}
+.section1 {
+   font-style: italic;
+   color: azure;
+}
+section:hover {
+    transition: all ease;
+    transform: none;
+    cursor: pointer;
+    color: aqua;
+}
+li {
+    font-size: 15px;
+    color: aqua;
+}
+h2{
+    font-style: normal;
+    color: aqua ;
+}
+h2:hover {
+    transition: all ease;
+    transform: rotate(25deg);
+    cursor: pointer;
+    color: aqua;
+}
+.onep {
+    height: 50px;
+    width: 50px;
+    margin-left: 50px;
+}
