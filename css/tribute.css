@@ -1,0 +1,26 @@
+body{
+    background: pink;
+    margin: 0 30%;
+}
+h1#title{
+    text-align: center;
+    font-size: 3em;
+    text-shadow: 5px 5px 10px black;
+}
+img{
+    display: block;
+    width: 100%;
+}
+div#TRIBUTE-INFORMATION{
+    background: #ded2aa;
+    box-shadow: 20px  20px 15px;
+    padding: 10px;
+    margin-top: 20px;
+}
+div#career{
+    background: lightcoral;
+    box-shadow: 20px 20px 15px;
+    padding: 10px;
+    margin-top: 20px;
+    font-size: xx-small;
+}
